@@ -1,0 +1,12 @@
+.panel-default {
+  background-color: #faf5ff;
+}
+
+#purple {
+  background-color: #ddcef2;
+  border: #afa3bf;
+}
+#welcome {
+  font-size: 24px;
+  font-weight: bold;
+}
